@@ -63,7 +63,8 @@ Subversion, Bazaar, Git, Mercurial 과 같은 repository 를 통해 문서 등�
 ~~~~~
 
 .. image:: image/Readthedocs04.png
-  - Project 에서 Build 클릭 하여 Build Version(latest 등) 확인 후 Build Version 버튼 클릭하여 Project 빌드 함. 
+
+- Project 에서 Build 클릭 하여 Build Version(latest 등) 확인 후 Build Version 버튼 클릭하여 Project 빌드 함. 
 - Triggered : Access Repository 
 - Cloning : Repository Copy
 - Building : Project build
@@ -88,7 +89,7 @@ Subversion, Bazaar, Git, Mercurial 과 같은 repository 를 통해 문서 등�
 =====
 
 - Admin 에서 Repository 등록 후, Submit 하게 되면 자동 build 동작 함.
-- 또는 Build 화면(`2-7 <#2-git-repository#7-Build>`) 에서 빌드함.
+- 또는 Build 화면 :ref:`2-7 <7) Build>` 에서 빌드함.
 
 
 5. RTD Service 체크
