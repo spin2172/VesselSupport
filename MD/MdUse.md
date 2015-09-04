@@ -115,6 +115,7 @@ ___
 	> > > CAS, MMS, FMS, DMS, EDMS, SEMS, SHIP MAIL, APPROVAL 
 
 ## 7. 리스트
+
 	'-', '+', '*', '숫자.' 으로 리스트 자동 작성 됨
 - Menu List 
 + Menu List
