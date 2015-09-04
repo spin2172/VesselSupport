@@ -21,14 +21,14 @@ Subversion, Bazaar, Git, Mercurial 과 같은 repository 를 통해 문서 등�
 	2. 가입 및 로그인
 	~~~~~
 
-	.. image:: ../image/Readthedocs01.png
+	.. image:: image/Readthedocs01.png
 
 	3.Project 메뉴 선택
 	~~~~~
 	
 	- 신규 Project를 추가할 경우 Add Project 선택 함.
 
-	.. image:: ../image/Readthedocs01-1.png
+	.. image:: image/Readthedocs01-1.png
 
 	4. Project(Manual) 선택
 	~~~~~
@@ -36,7 +36,7 @@ Subversion, Bazaar, Git, Mercurial 과 같은 repository 를 통해 문서 등�
 	- 신규 Project의 경우 Import Project 버튼을 클릭하여 Project 생성 함.
 	- 기존 Project의 경우 Project 목록 확인하여 클릭 함.
 
-	.. image:: ../image/Readthedocs02.png
+	.. image:: image/Readthedocs02.png
 
 	5. Git Repository 확인
 	~~~~~
@@ -47,8 +47,8 @@ Subversion, Bazaar, Git, Mercurial 과 같은 repository 를 통해 문서 등�
 	6. Project 확인
 	~~~~~
 	
-	.. image:: ../image/gitlab01.png
-	.. image:: ../image/Readthedocs03.png
+	.. image:: image/gitlab01.png
+	.. image:: image/Readthedocs03.png
 
 	- Overview : 전반적인 프로젝트 정보 확인. Badge를 통해 현재 프로젝트 상태 및 버전 확인 가능.
 	- Downloads : 문서 다운로드
@@ -70,17 +70,17 @@ Subversion, Bazaar, Git, Mercurial 과 같은 repository 를 통해 문서 등�
 	- Passed : success build
 	- Failed : failed build (이전 버전으로 project hosting 유지 됨)
 
-	.. image:: ../image/Readthedocs04.png
+	.. image:: image/Readthedocs04.png
 
 3. RTD Service에 메뉴얼 등록
 =====
 
-.. image:: ../image/Readthedocs06.png
+.. image:: image/Readthedocs06.png
 
 - Name : Project Name. 
 - 빌드 된 후 아래 서비스 Home Name 에서 확인 가능 함.
  
-.. image:: ../image/Readthedocs06-1.png
+.. image:: image/Readthedocs06-1.png
 
 - Repository URL
 - Git Repository 로 https://~.git 등록 (아래 Repository type 에 git 선택) 
