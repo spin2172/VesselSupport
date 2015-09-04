@@ -4,7 +4,7 @@
 .. toctree::
    :titlesonly:
  
-   GIT/index
+   GIT/Readme.md
    RTD/index
    RST/index
    MD/index
