@@ -13,24 +13,24 @@ Subversion, Bazaar, Git, Mercurial 과 같은 repository 를 통해 문서 등�
 2. GIT Repository 업로드
 =====
 
-1. Read the docs Service 접속
+1) Read the docs Service 접속
 ~~~~~
 
 - http://10.21.6.58:8000 
 
-2. 가입 및 로그인
+2) 가입 및 로그인
 ~~~~~
 
 .. image:: image/Readthedocs01.png
 
-3.Project 메뉴 선택
+3) Project 메뉴 선택
 ~~~~~
 
 - 신규 Project를 추가할 경우 Add Project 선택 함.
 
 .. image:: image/Readthedocs01-1.png
 
-4. Project(Manual) 선택
+4) Project(Manual) 선택
 ~~~~~
 
 - 신규 Project의 경우 Import Project 버튼을 클릭하여 Project 생성 함.
@@ -38,13 +38,13 @@ Subversion, Bazaar, Git, Mercurial 과 같은 repository 를 통해 문서 등�
 
 .. image:: image/Readthedocs02.png
 
-5. Git Repository 확인
+5) Git Repository 확인
 ~~~~~
 
 - RTD 서비스의 경우 public 상태만 호스팅 서비스 제공함.
 - Commit 된 내역 확인. 
 
-6. Project 확인
+6) Project 확인
 ~~~~~
 
 .. image:: image/gitlab01.png
@@ -59,7 +59,7 @@ Subversion, Bazaar, Git, Mercurial 과 같은 repository 를 통해 문서 등�
 - Admin : Project 정보 및 Repository 정보 수정 및 확인
 - View Docs : Build 된 Project 웹페이지에서 확인  
 
-7. Build
+7) Build
 ~~~~~
 
 .. image:: image/Readthedocs04.png
@@ -88,7 +88,7 @@ Subversion, Bazaar, Git, Mercurial 과 같은 repository 를 통해 문서 등�
 =====
 
 - Admin 에서 Repository 등록 후, Submit 하게 되면 자동 build 동작 함.
-- 또는 Build 화면([2-7](http://manual-system.readthedocs.org/en/latest/GIT/RtdUse/#2-git-repository#7-Build))에서 빌드함.
+- 또는 Build 화면(`2-7 <#2-git-repository#7-Build>`) 에서 빌드함.
 
 
 5. RTD Service 체크
