@@ -1,4 +1,4 @@
-ReStructureText 
+reStructuredText 
 -----
 
 .. toctree::
