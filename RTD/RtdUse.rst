@@ -89,7 +89,7 @@ Subversion, Bazaar, Git, Mercurial 과 같은 repository 를 통해 문서 등�
 =====
 
 - Admin 에서 Repository 등록 후, Submit 하게 되면 자동 build 동작 함.
-- 또는 Build 화면 `2-7 <#build>`_ 에서 빌드함.
+- 또는 Build 화면 `2-7) Build` 에서 빌드함.
 
 
 5. RTD Service 체크
