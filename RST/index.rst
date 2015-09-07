@@ -7,4 +7,3 @@ reStructuredText
    Sphinx
    RSTPrimer
    RSTTocTree
-
