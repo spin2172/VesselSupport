@@ -5,4 +5,6 @@ reStructuredText
    :titlesonly:
    
    Sphinx
-   RSTIntro
+   RSTPrimer
+   RSTTocTree
+
