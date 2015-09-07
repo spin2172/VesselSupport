@@ -4,9 +4,9 @@ SPINX (Python Documentation Generator)
 Introduction
 =====
 
-ÀÌ ¹®¼­´Â Sphinx documentation builder¸¦ À§ÇÑ ¼³¸íÀÔ´Ï´Ù. Sphinx´Â ÀÚµ¿À¸·Î ¼­·Î ÂüÁ¶ÇÏ°í, ÀÎµ¦½Ì ºÎ¿© µî  ´Ù¾çÇÑ output formats À¸·Î RestructuredText ¼Ò½º ÆÄÀÏµéÀ» º¯È¯½ÃÄÑÁÖ´Â tool ÀÔ´Ï´Ù. 
-Áï, reStructuredText Çü½ÄÀÇ ¹®¼­ µéÀ» ±¸¼ºÇÏ±âÀ§ÇÑ µð·ºÅä¸®°¡ ÀÖ´Ù¸é, Sphinx´Â Àß Á¶Á÷È­ µÇ¾î ÀÖ°í, ½±°Ô °Ë»ö/Å½»öÀ» ÇÒ ¼ö ÀÖ´Â HTML ÆÄÀÏµé·Î ¹èÄ¡ÇÏ¿© »ý¼ºÇÒ ¼ö ÀÖ½À´Ï´Ù. 
-±×·¯³ª °°Àº ¼Ò½º·Î ¹®¼­ÀÇ PDF ¹öÀü¿¡¼­ ÄÄÆÄÀÏÇÏ¿© LaTeX ÆÄÀÏ·Î »ý¼ºÇÒ ¼öµµ ÀÖ½À´Ï´Ù. ¶Ç´Â PDF ÆÄÀÏÀ» Á÷Á¢ »ç¿ëÇÏ¿© RST ÆÄÀÏ¿¡¼­ PDF ·Î »ý¼ºÇÒ ¼öµµ ÀÖ½À´Ï´Ù. 
+ì´ ë¬¸ì„œëŠ” Sphinx documentation builderë¥¼ ìœ„í•œ ì„¤ëª…ìž…ë‹ˆë‹¤. SphinxëŠ” ìžë™ìœ¼ë¡œ ì„œë¡œ ì°¸ì¡°í•˜ê³ , ì¸ë±ì‹± ë¶€ì—¬ ë“±  ë‹¤ì–‘í•œ output formats ìœ¼ë¡œ RestructuredText ì†ŒìŠ¤ íŒŒì¼ë“¤ì„ ë³€í™˜ì‹œì¼œì£¼ëŠ” tool ìž…ë‹ˆë‹¤. 
+ì¦‰, reStructuredText í˜•ì‹ì˜ ë¬¸ì„œ ë“¤ì„ êµ¬ì„±í•˜ê¸°ìœ„í•œ ë””ë ‰í† ë¦¬ê°€ ìžˆë‹¤ë©´, SphinxëŠ” ìž˜ ì¡°ì§í™” ë˜ì–´ ìžˆê³ , ì‰½ê²Œ ê²€ìƒ‰/íƒìƒ‰ì„ í•  ìˆ˜ ìžˆëŠ” HTML íŒŒì¼ë“¤ë¡œ ë°°ì¹˜í•˜ì—¬ ìƒì„±í•  ìˆ˜ ìžˆìŠµë‹ˆë‹¤. 
+ê·¸ëŸ¬ë‚˜ ê°™ì€ ì†ŒìŠ¤ë¡œ ë¬¸ì„œì˜ PDF ë²„ì „ì—ì„œ ì»´íŒŒì¼í•˜ì—¬ LaTeX íŒŒì¼ë¡œ ìƒì„±í•  ìˆ˜ë„ ìžˆìŠµë‹ˆë‹¤. ë˜ëŠ” PDF íŒŒì¼ì„ ì§ì ‘ ì‚¬ìš©í•˜ì—¬ RST íŒŒì¼ì—ì„œ PDF ë¡œ ìƒì„±í•  ìˆ˜ë„ ìžˆìŠµë‹ˆë‹¤. 
 
 .. toctree::
    :titlesonly:
