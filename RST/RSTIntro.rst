@@ -15,7 +15,7 @@ language, this will not take too long.
 
 
 Paragraphs
-----------
+=====
 
 The paragraph (:duref:`ref <paragraphs>`) is the most basic block in a reST
 document.  Paragraphs are simply chunks of text separated by one or more blank
@@ -26,7 +26,7 @@ same paragraph must be left-aligned to the same level of indentation.
 .. _inlinemarkup:
 
 Inline markup
--------------
+=====
 
 The standard reST inline markup is quite simple: use
 
@@ -65,7 +65,7 @@ See :ref:`inline-markup` for roles added by Sphinx.
 
 
 Lists and Quote-like blocks
----------------------------
+=====
 
 List markup (:duref:`ref <bullet-lists>`) is natural: just place an asterisk at
 the start of a paragraph and indent properly.  The same goes for numbered lists;
@@ -123,7 +123,7 @@ There are also several more special blocks available:
 
 
 Source Code
------------
+=====
 
 Literal code blocks (:duref:`ref <literal-blocks>`) are introduced by ending a
 paragraph with the special marker ``::``.  The literal block must be indented
@@ -153,7 +153,7 @@ rendered as "The next paragraph is a code sample:".
 .. _rst-tables:
 
 Tables
-------
+=====
 
 Two forms of tables are supported.  For *grid tables* (:duref:`ref
 <grid-tables>`), you have to "paint" the cell grid yourself.  They look like
@@ -183,7 +183,7 @@ contain multiple lines.  They look like this::
 
 
 Hyperlinks
-----------
+=====
 
 External links
 ^^^^^^^^^^^^^^
@@ -208,7 +208,7 @@ section on specific markup, :ref:`ref-role`.
 
 
 Sections
---------
+=====
 
 Section headers (:duref:`ref <sections>`) are created by underlining (and
 optionally overlining) the section title with a punctuation character, at least
@@ -235,7 +235,7 @@ target formats (HTML, LaTeX) have a limited supported nesting depth.
 
 
 Explicit Markup
----------------
+=====
 
 "Explicit markup" (:duref:`ref <explicit-markup-blocks>`) is used in reST for
 most constructs that need special handling, such as footnotes,
@@ -251,7 +251,7 @@ when you write it.)
 .. _directives:
 
 Directives
-----------
+=====
 
 A directive (:duref:`ref <directives>`) is a generic block of explicit markup.
 Besides roles, it is one of the extension mechanisms of reST, and Sphinx makes
@@ -337,7 +337,7 @@ directive start.
 
 
 Images
-------
+=====
 
 reST supports an image directive (:dudir:`ref <image>`), used like so::
 
@@ -380,7 +380,7 @@ Note that image file names should not contain spaces.
 
 
 Footnotes
----------
+=====
 
 For footnotes (:duref:`ref <footnotes>`), use ``[#name]_`` to mark the footnote
 location, and add the footnote body at the bottom of the document after a
@@ -398,7 +398,7 @@ footnotes without names (``[#]_``).
 
 
 Citations
----------
+=====
 
 Standard reST citations (:duref:`ref <citations>`) are supported, with the
 additional feature that they are "global", i.e. all citations can be referenced
@@ -413,7 +413,7 @@ numeric or begins with ``#``.
 
 
 Substitutions
--------------
+=====
 
 reST supports "substitutions" (:duref:`ref <substitution-definitions>`), which
 are pieces of text and/or markup referred to in the text by ``|name|``.  They
@@ -439,7 +439,7 @@ Sphinx defines some default substitutions, see :ref:`default-substitutions`.
 
 
 Comments
---------
+=====
 
 Every explicit markup block which isn't a valid markup construct (like the
 footnotes above) is regarded as a comment (:duref:`ref <comments>`).  For
@@ -457,7 +457,7 @@ You can indent text after a comment start to form multiline comments::
 
 
 Source encoding
----------------
+=====
 
 Since the easiest way to include special characters like em dashes or copyright
 signs in reST is to directly write them as Unicode characters, one has to
@@ -466,7 +466,7 @@ default; you can change this with the :confval:`source_encoding` config value.
 
 
 Gotchas
--------
+=====
 
 There are some problems one commonly runs into while authoring reST documents:
 
