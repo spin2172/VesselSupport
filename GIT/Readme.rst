@@ -1,4 +1,5 @@
-# 선박지원 Git 사용 매뉴얼 #
+선박지원 Git 사용 매뉴얼 
+-----
 
 1. Git 설치
 2. Git 에서 신규 프로젝트 생성하기
@@ -40,11 +41,11 @@
 
 
 - **아래 그림과 같이 프로필 설정 페이지로 이동합니다.**  
-![image](http://10.21.6.58:10080/VesselSupport/Manual/uploads/bef68f64febe370ed1b7d2d90261391d/image.png)  
+.. image:: http://10.21.6.58:10080/VesselSupport/Manual/uploads/bef68f64febe370ed1b7d2d90261391d/image.png
 
 - **SSH Keys 메뉴로 이동하여 우측 상단 Add SSH Key를 실행합니다.**  
-![image](http://10.21.6.58:10080/VesselSupport/Manual/uploads/9126387243a42ac5b354e22862f2f9be/image.png)  
+.. image:: http://10.21.6.58:10080/VesselSupport/Manual/uploads/9126387243a42ac5b354e22862f2f9be/image.png
 
 - **복사한 공개키를 붙여넣기 하고 Add Key를 실행하면 등록이 완료됩니다.**  
-![image](http://10.21.6.58:10080/VesselSupport/Manual/uploads/d03567b605a2c88b3613251c1c77c998/image.png)
+.. image:: http://10.21.6.58:10080/VesselSupport/Manual/uploads/d03567b605a2c88b3613251c1c77c998/image.png
 
